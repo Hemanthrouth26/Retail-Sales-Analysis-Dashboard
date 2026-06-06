@@ -32,7 +32,7 @@ Built an interactive Retail Sales Analysis Dashboard using Power BI and SQL.
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Dashboard_Screenshot.png.png)
 
 ## Author
 Hemanth Routh
